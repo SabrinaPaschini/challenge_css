@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: raleway;
+
+}
+
+body {
+    width: 1685px;
+    height: 1200px;
+    background-color: black;
+
+}
+
+
+.banner {
+    background-color: rgb(7, 29, 37);
+    width: 100%;
+    text-align: justify;
+    background-image: url(../Desafio-css-02/trilha-css-desafio-01-main/trilha-css-desafio-01-main/assets/images/banner.png);
+    background-size: contain no-repeat;
+
+}
+
+.banner-content {
+    width: 100%;
+    border: 2px solid rgba(49, 168, 221, 1);
+    align-items: center;
+}
+
+
+.logo {
+    padding-top: 3rem;
+    padding-left: 713px;
+    align-items: center;
+}
+
+.logo2 {
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.274);
+    border-radius: 100%;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 1rem;
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 47px;
+    letter-spacing: 0em;
+    color: rgba(51, 168, 219, 1);
+    text-transform: uppercase;
+}
+
+p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+
+button {
+
+    margin-left: 40%;
+    Width: 326px;
+    height: 57px;
+    border: solid 2px rgba(49, 168, 221, 1);
+    background-color: rgba(0, 0, 0, 0);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 19px;
+    letter-spacing: 0.21em;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgba(49, 168, 221, 1);
+    padding-bottom: 0, 8rem;
+    margin-bottom: 2rem;
+}
+
+
+.btn {
+    cursor: pointer;
+}
+
+#course-content {
+    width: 800px;
+    margin-left: 450px;
+    background-color: black
+}
+
+h2 {
+    padding-top: 5rem;
+    background-color: black;
+    text-align: center;
+    font-family: Raleway;
+    text-transform: uppercase;
+    color: rgba(51, 168, 219, 1);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0.19em;
+}
+
+p {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.p-2 {
+    color: rgb(255, 255, 255);
+    margin-bottom: 1rem;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.modules-list {
+    text-align: center;
+}
+
+.module {
+    border: solid 2px rgba(51, 168, 219, 1);
+    box-shadow: inset 20px 20px 60px rgb(27, 26, 26);
+    background-color: rgb(15, 15, 15);
+    border-radius: 57px;
+    margin-bottom: 1rem;
+    height: 51px;
+    width: 500px;
+    align-items: center;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    margin-left: 125px;
+
+}
+
+span {
+    color: rgba(51, 168, 219, 1);
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#transform-world {
+    width: 100% width: auto;
+    height: 400px;
+    background-image: url(../trilha-css-desafio-01-main/assets/images/woman-code.png);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.p-3 {
+
+    margin-top: 6rem;
+    width: 20%;
+    font-family: Raleway;
+    text-shadow: 3px 2px rgba(51, 168, 219, 1);
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 20px;
+    text-transform: lowercase;
+    color: rgba(255, 255, 255, 1);
+    border: solid blue 3px;
+    margin-left: 60px;
+    margin-right: 300px;
+    padding-top: 105px;
+}
+
+h2 img {
+
+}
+
+#professional-challenges {
+
+    align-items: center;
+}
