@@ -171,6 +171,7 @@ span {
 }
 
 #transform-world {
+    
     width: 100% width: auto;
     height: 400px;
     background-image: url(../trilha-css-desafio-01-main/assets/images/woman-code.png);
@@ -180,7 +181,7 @@ span {
 }
 
 .p-3 {
-
+    
     margin-top: 6rem;
     width: 20%;
     font-family: Raleway;
@@ -193,17 +194,54 @@ span {
     margin-left: 20px;
     text-transform: lowercase;
     color: rgba(255, 255, 255, 1);
-    border: solid blue 3px;
+    
     margin-left: 60px;
     margin-right: 300px;
     padding-top: 105px;
+    
 }
 
-h2 img {
+.img2{
+
+    padding-top: 60px;
+    padding-left:300px;
+    padding-bottom: 60px;
+    
+    width: 80%;
+    height: 50%;
+    align-items: center;
+
 
 }
+
+
+.new{
+    
+    width: 800px;
+    margin-left: 450px;
+
+}
+
 
 #professional-challenges {
-
+    border: solid rgba(51, 168, 219, 1) 2px;
     align-items: center;
-}
+ }
+
+ .par{
+    
+    width: 800px;
+    margin-left: 400px;
+    padding-bottom: 5rem;
+ }
+
+ footer{
+    width: auto;
+    padding-left: 650px;
+    padding-top: 3rem;
+ }
+
+ .last-p{
+    margin-right: 740px;
+    padding-bottom: 3rem;
+ }
