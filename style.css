@@ -3,7 +3,6 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     font-family: raleway;
 }
 
@@ -185,9 +184,10 @@ span {
 #transform-world {
     width: 100% width:auto;
     height: 400px;
-    background-image:url(../trilha-css-desafio-01-main/assets/images/woman-code.png);
+    
     border-top: solid rgba(51, 168, 219, 1) 2px;  
     border-bottom: solid rgba(51, 168, 219, 1) 2px;  
+    background-image:url(woman-code.png);
     background-attachment: fixed;
     background-size: cover;
 }
