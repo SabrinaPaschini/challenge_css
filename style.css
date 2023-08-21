@@ -13,6 +13,7 @@ body {
     width: 1348px;
     height: 100%;
     background-color: black;
+    padding-left:0px;
 }
 
 main{
