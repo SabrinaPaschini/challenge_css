@@ -189,7 +189,7 @@ span {
     
     border-top: solid rgba(51, 168, 219, 1) 2px;  
     border-bottom: solid rgba(51, 168, 219, 1) 2px;  
-    background-image:url(woman-code.png);
+    background-image:url(../trilha-css-desafio-01-main/assets/images/woman-code.png);
     background-attachment: fixed;
     background-size: cover;
 }
