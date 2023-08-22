@@ -5,15 +5,18 @@
     padding: 0;
     padding-left:0px;
     font-family: raleway;
+    overflow-x :hidden;
 }
 
 body {
     margin-left: 0px;
     margin-right: 0px;
-    width: 1348px;
+    width: 1350px;
     height: 100%;
     background-color: black;
     padding-left:0px;
+    
+    
 }
 
 main{
@@ -154,6 +157,7 @@ p {
 }
 
 .module {    
+    overflow-y:hidden;
     border: solid 2px rgba(51, 168, 219, 1);
     box-shadow: inset 20px 20px 60px rgb(27, 26, 26);
     background-color: rgb(15, 15, 15);
@@ -171,6 +175,7 @@ p {
     margin-top: 1.5rem;
     padding-top: 1rem;
     margin-left: 420px;    
+    
 }
 
 span {
@@ -185,14 +190,13 @@ span {
 
 #transform-world {
     background-image: url(./assets/images/woman-code.png);
-    
-    width: 100% width:auto;
+    width: auto;
     height: 400px;
-
     border-top: solid rgba(51, 168, 219, 1) 2px;  
     border-bottom: solid rgba(51, 168, 219, 1) 2px;  
     background-attachment: fixed;
     background-size: cover;
+    overflow-y: hidden;
 }
 
 .p-3 {
@@ -241,21 +245,24 @@ span {
     width: 800px;
     margin-left: 250px;
     padding-bottom: 5rem;
+    
 }
 
 footer {
     padding-left: 500px;
     padding-top: 3rem;
     background-image: linear-gradient(rgba(51, 168, 219, 0), rgba(51, 168, 219, 0.2), rgba(51, 168, 219, 0.2));
+    
 }
 
 .last-p {
     padding-bottom: 3rem;
-    width: 700px;
-    padding-right: 400px;
-    margin-right: 100px;
+    width: 300px;
+    padding-right: auto;
+    margin-right: auto;
     margin-left: 4px;
-}
+    text-align: justify;
+    }
 
 a {
     text-decoration: none;
