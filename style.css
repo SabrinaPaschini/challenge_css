@@ -107,13 +107,11 @@ button {
     margin-bottom: 2rem;
 }
 
-
 .btn {
     cursor: pointer;
 }
 
 #course-content {
-    
     width: 100%;
     margin-left: -1px;
     background-color: black
